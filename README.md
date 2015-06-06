@@ -133,7 +133,7 @@ Miscellaneous Options:
 
 ## How does it work? 
 
-See [this paper](arxiv.org/abs/1504.02936) 
+See [this paper](http://arxiv.org/abs/1504.02936) 
 for a description of `autoscan` and its role in the 
 DES supernova pipeline. 
 

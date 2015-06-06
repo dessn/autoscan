@@ -1,0 +1,7 @@
+sep>=0.1.0
+astropy>=0.4.2
+numpy>=1.9.0
+cx_Oracle
+scikit-learn==0.14
+scipy>=0.13.0
+joblib>=0.8.3-r1
